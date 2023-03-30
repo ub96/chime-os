@@ -1,4 +1,4 @@
-# Copyright (c) 2022 Fyde Innovations and the openFyde Authors.
+# Copyright (c) 2022 ytfanboiii.exe and the openFyde Authors.
 # Distributed under the license specified in the root directory of this project.
 
 EAPI="5"
@@ -6,7 +6,7 @@ EAPI="5"
 inherit appid2
 
 DESCRIPTION="empty project"
-HOMEPAGE="http://fydeos.com"
+HOMEPAGE="https://chime64.weebly.com"
 
 LICENSE="BSD-Google"
 SLOT="0"
