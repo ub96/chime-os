@@ -1,10 +1,10 @@
-# Copyright (c) 2018 The Fyde OS Authors. All rights reserved.
+# Copyright (c) 2018 ytfanboiii.exe. All rights reserved.
 # Distributed under the terms of the BSD
 
 EAPI="5"
 
 DESCRIPTION="empty project"
-HOMEPAGE="http://fydeos.com"
+HOMEPAGE="https://chime64.weebly.com"
 
 LICENSE="BSD-Google"
 SLOT="0"
