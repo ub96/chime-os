@@ -1,4 +1,4 @@
-# Copyright (c) 2022 Fyde Innovations and the openFyde Authors.
+# Copyright (c) 2022 ytfanboiii.exe and the openFyde Authors.
 # Distributed under the license specified in the root directory of this project.
 
 EAPI="4"
